@@ -1,0 +1,29 @@
+{
+    "users" : [
+        {
+            "id" : 1,
+            "name" : "Vasya Pupkin",
+            "age" : 30,
+            "avatar" : "assets/images/vasya.jpg"
+        },   
+        {
+            "id" : 2,
+            "name" : "Egor Letov",
+            "age" : 34,
+            "avatar" : "assets/images/Egor.jpg"
+        },   
+        {
+            "id" : 2,
+            "name" : "Till Lindeman",
+            "age" : 22,
+            "avatar" : "assets/images/Till.jpg"
+        },   
+        {
+            "id" : 4,
+            "name" : "Nikolay Emelin",
+            "age" : 45,
+            "avatar" : "assets/images/Nikolay.jpg"
+        }  
+    ]
+
+}
