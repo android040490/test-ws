@@ -21,4 +21,3 @@ server.listen(port_http, function(){
 wsServer.listen(port_ws, function(){
     console.log('listening on port :', port_ws);
 });
-
